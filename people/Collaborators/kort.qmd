@@ -2,7 +2,7 @@
 title: "Eric Kort"
 started: "2020"
 image: /img/people/kort.jpeg
-subtitle: "CH4 and N2O expert"
+subtitle: "Methane and Nitrous Oxide expert"
 description: "University of Michigan"
 sortby: "1"
 #bibliography: ../../publications/sanghavi2024_doi.bib
@@ -14,17 +14,24 @@ about:
   links:
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=hN5ryzgAAAAJ&hl=en&oi=ao
+    - icon: mortarboard
+      text: Website
+      href: https://kort.engin.umich.edu
     - text: "{{< iconify fa6-brands orcid >}} OrcidID"
       href: https://orcid.org/0000-0003-4940-7541
 ---
 
-Eric Kort is ... 
+Eric Kort is a Professor in the Climate and Space Sciences and Engineering Department at the University of Michigan.  Kort's research is focused on atmospheric greenhouse gases and pollutants.
+
 ## Education
 
-- [PhD in BLA]{.fw-bold} | University of XYZ | 2004 - 2008
-- [BS in BLA]{.fw-bold} | University of XYZ  | 1999 - 2003  
+- [PhD in Applied Physics]{.fw-bold} | Harvard University | 2004 - 2011
+- [SM in Applied Physics]{.fw-bold} | Harvard University | 2004 - 2005
+- [BA in Physics, minor Mathematics]{.fw-bold} | Pomona College  | 2000-2004  
 
 ## Professional Experience
 
-- [2015-present:]{.fw-bold} 	BLA
-- [2014-2015:]{.fw-bold} 	BLABLA
+- [2024-present:]{.fw-bold} Professor, University of Michigan
+- [2019-2024:]{.fw-bold} Associate Professor, University of Michigan
+- [2013-2019:]{.fw-bold} Assistant Professor, University of Michigan
+- [2011-2013:]{.fw-bold} W. M. Keck Institute for Space Studies Postdoctoral Fellow, Jet Propulsion Laboratory, California Institute of Technology
